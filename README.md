@@ -66,11 +66,13 @@ The website's centerpiece was an immersive photo gallery: nine high-resolution i
 
 Behind the front end, a purpose-built PHP/MySQL CMS gave the studio owner complete control over their content. The admin panel included a WYSIWYG rich-text editor for page copy, an event management wizard to track bookings, and an image uploader that automatically applied a watermark to protect the studio's photography IP. No developer involvement was needed for day-to-day updates — a meaningful operational gain for a small business owner managing a portfolio on a tight schedule.
 
-**Key highlights:**
+<!-- KEY FEATURES -->
 
-- Built a custom PHP CMS with WYSIWYG editing and session-based gallery management, eliminating the need for a developer to update content
-- Implemented image uploader with automatic watermarking to protect the studio's photography IP
-- Delivered an interactive photo gallery with thumbnail navigation, background cycling, and click-sound hover effects — production-quality UX for 2007
+### Key Features
+
+- **Custom CMS** — WYSIWYG editing and event management gave the studio owner full control over content and bookings, eliminating the need for a developer to make routine updates
+- **Watermarked image uploads** — Automatic watermarking on every uploaded photo protected the studio's photography IP without adding manual work to the publishing process
+- **Interactive photo gallery** — Thumbnail navigation, background cycling, and click-sound hover effects delivered a premium, production-quality browsing experience that helped the studio stand out in 2007
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
